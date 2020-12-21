@@ -1,6 +1,6 @@
 import 'dart:ui';
-import 'package:flame/game/game.dart';
-import 'package:flutter/cupertino.dart';
+
+import 'package:flame/game.dart';
 
 class LangawGame extends Game {
   Size screenSize;
